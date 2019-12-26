@@ -1,5 +1,7 @@
 {
   "name": "myMusic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
